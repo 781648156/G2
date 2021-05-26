@@ -39,6 +39,7 @@ module.exports = {
     'lines-between-class-members': 'off',
     '@typescript-eslint/lines-between-class-members': ['error'],
     'import/no-cycle': 'off',
+    'no-param-reassign': 'warn',
   },
   settings: {
     'import/parsers': {
